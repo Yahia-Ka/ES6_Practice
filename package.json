@@ -1,0 +1,20 @@
+{
+  "name": "es6_practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yahia-Ka/es6_practice.git"
+  },
+  "author": "yahia-ka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yahia-Ka/es6_practice/issues"
+  },
+  "homepage": "https://github.com/Yahia-Ka/es6_practice#readme"
+}
